@@ -1,4 +1,4 @@
-hello-world
+README File for Hello World project
 ===========
 
-A hello world repository
+This is my first repository, so it's called hello-world
